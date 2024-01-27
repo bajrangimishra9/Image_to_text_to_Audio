@@ -16,17 +16,3 @@ This Project will take input of a image and extracts words from it and makes an 
     Output:-
 
 ![image](https://github.com/bajrangimishra9/Image_to_text_to_Audio/assets/155826931/53d1d984-9442-42ec-aa24-06c31ff19278)
-
-
-
-
-
-
-
-
-
-
-
-
-    Code:-
-![image](https://github.com/bajrangimishra9/Image_to_text_to_Audio/assets/155826931/5b5640b3-ca25-4817-b86f-33cd877a2d65)
